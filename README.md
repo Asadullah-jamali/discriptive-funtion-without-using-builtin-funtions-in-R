@@ -1,0 +1,1 @@
+# discriptive-funtion-without-using-builtin-funtions-in-R
